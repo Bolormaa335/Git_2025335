@@ -16,6 +16,7 @@ public class Git_2025335 {
      */
     public static void main(String[] args) {
         System.out.println("Bolormaa - 2025335");
+        System.out.println("Have a nice day!");
 
     }
     
